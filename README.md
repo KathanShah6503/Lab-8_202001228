@@ -1,7 +1,8 @@
 # Lab1_202001228
 
 ###Q1
-###Functional Requirements
+
+##Functional Requirements
 
 	1. Authentication (Student/Member/Library staff/Librarian Login)
 	2. Should show list of books available to borrow.
@@ -22,20 +23,25 @@
 	9. Information about a book like author name, genre, publisher name.
 	10. For every new entry of the book, A unique and specific call no. and barcode should be generated.
 	11. The website should only be accesible via the institute's LAN.
+	12. Features like "Change Password", "Reading History", "Search History" should be made available.
+	13. The system should allow a user to re-issue a book gievn that no user is willing to borrow/issue it.
+	14. If a user fails to return the book before the due date, he/she should be fined.
+	15. If a book is not available, a user can ask library system to purchase it through the system.
+	16. A user should be able to search books by entering author name or publisher name or any keyword or call no. or the barcode of the book.
+	17. If a user has not logged in the system, he should not be able to issue or return any book.
 	
-###Non-Functional Requirements
+##Non-Functional Requirements
 
-	1. If a user has not logged in the system, he should not be able to issue or return any book.
-	2. A user should be able to search books by entering author name or publisher name or any keyword or call no. or the barcode of the book.
-	3. The system should allow a user to re-issue a book gievn that no user is willing to borrow/issue it.
-	4. If a book is not available, a user can ask library system to purchase it through the system.
-	5. When a user issues or returns a book, he should be getting a email regarding the same.
-	6. The system should remind the user to return the book sending a mail prior to 1 or 2 days before the deadline.
-	7. When the requested book is available, the user should be notified.
-	8. If a user fails to return the book before the due date, he/she should be fined.
-	9. Features like "Change Password", "Reading History", "Search History" should be made available.
+	1. The system should be fast enough so that when a user searches for a book, it should immediately show the results.
+	2. If a user borrows a book or returns a book, it should immediately reflect in the system.
+	3. When a user issues or returns a book, he should be getting a email regarding the same.
+	4. The system should remind the user to return the book sending a mail prior to 1 or 2 days before the deadline.
+	5. When the requested book is available, the user should be notified.
+	6. The system should be accesible even though large no. of users are using it at the same time.
 	
 
 ###Q2
 
-###Scope
+##Scope
+
+	
