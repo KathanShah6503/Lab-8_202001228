@@ -31,3 +31,10 @@
 	4. If a book is not available, a user can ask library system to purchase it through the system.
 	5. When a user issues or returns a book, he should be getting a email regarding the same.
 	6. The system should remind the user to return the book sending a mail prior to 1 or 2 days before the deadline.
+	7. When the requested book is available, the user should be notified.
+	8. If a user fails to return the book before the due date, he/she should be fined.
+	9. Features like "Change Password", "Reading History", "Search History" should be made available.
+	
+
+###Q2
+###Scope
