@@ -44,4 +44,16 @@
 
 ##Scope
 
+	1. The scope of the application is to target approximately 5% of the world population(Approx 466 million people) suffers from disabling hearing loss.
+	2. The application is set out to be a impactful solution for for this community that addresses their everyday needs.
+	3. The app is optimized for android with low-latency so that it works in real-time.
 	
+##Features
+
+	1. A alert/vibrate to recognize sounds like car horns or babies.
+	2. A real-time speech-to-text convertor to show words that are spoken by other people.
+	3. The log is updated in the real-time.
+	
+##Non-Functional Aspects
+
+	1. 
