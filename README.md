@@ -56,4 +56,9 @@
 	
 ##Non-Functional Aspects
 
-	1. 
+	1. Security
+		- The information about the user should not be leaked/revealed.
+	2. Scalability
+		- The app should work fine even though there are many users active at the same time.
+	3. Performance/Reliability
+		- There should not be any lag in the system.
