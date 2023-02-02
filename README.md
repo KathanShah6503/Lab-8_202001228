@@ -1,6 +1,6 @@
 # Lab1_202001228
 
-#Q1
+###Q1
 ###Functional Requirements
 
 	1. Authentication (Student/Member/Library staff/Librarian Login)
@@ -37,4 +37,5 @@
 	
 
 ###Q2
+
 ###Scope
