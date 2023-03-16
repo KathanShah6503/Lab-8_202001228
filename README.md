@@ -62,3 +62,17 @@
 		- The app should work fine even though there are many users active at the same time.
 	3. Performance/Reliability
 		- There should not be any lag in the system.
+
+# Lab5_202001228
+![image](https://user-images.githubusercontent.com/75673132/225581033-68e35a4d-e4e5-49f4-8c73-c988d71c244c.png)
+
+I have analyzed 3 files from various github repositories. Here is the explanation of the errors I found.
+	
+	1. Practical-Python
+	--> This file had no errors.
+
+	2. Captcha-Generator.py
+	--> As per shown in the image, this file has two errors but there are not really any errors as the error was because of the file missing since we have only checked one file.
+
+	3. Python-mini-project.py
+	--> This file has two error of not including library.
