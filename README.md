@@ -1,4 +1,9 @@
-# Lab1_202001228
+# Name: Kathan Shah
+# ID: 202001228
+
+# Lab1_202001228 
+
+# Lab Exercises
 
 ###Q1
 
@@ -76,3 +81,5 @@ I have analyzed 3 files from various github repositories. Here is the explanatio
 
 	3. Python-mini-project.py
 	--> This file has two error of not including library.
+
+# Lab-8_202001228
